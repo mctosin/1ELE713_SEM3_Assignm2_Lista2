@@ -1,7 +1,7 @@
-# 1ELE713_SEM3_Assignm1_Lista1
-Lista com 4 exercícios sobre Transformada de Laplace e suas propriedades.
+# 1ELE713_SEM3_Assignm2_Lista2
+Lista com 3 exercícios sobre a inversa de Laplace aplicando a técnica das frações parciais e outras.
 
-Resolva a lista no arquivo 1ELE713-Sem3-Assignm1-Lista1.pdf
+Resolva a lista no arquivo 1ELE713-Sem3-Assignm2-Lista2.pdf
 
 Observações:
 
